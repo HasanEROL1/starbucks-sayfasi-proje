@@ -10,5 +10,4 @@ Bu proje, HTML ve CSS ile tasarlanarak yapılmıştır. Sayfa, Starbucks'ın tem
 Projeyi bilgisayarınıza klonladıktan sonra, index.html dosyasını herhangi bir tarayıcıda açarak projenin nasıl göründüğünü inceleyebilirsiniz.
 
 
-https://github.com/user-attachments/assets/6f054f91-6152-4116-a97f-1d5614113955
-
+![](cofee-shop.gif)
